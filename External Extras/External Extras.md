@@ -1,0 +1,1 @@
+Some external bits to show how the 1U case lays out in relation to other bits in the rack.
