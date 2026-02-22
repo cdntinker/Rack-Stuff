@@ -15,3 +15,7 @@ Intended to be fabricated from cut & folded 16g steel, but the front panel could
 ## to be done:
 * Learn how to convert the parts into something I can order from, say, Send-Cut-Send.
 * Add in holes for assembly using machine screws.
+
+## Possible links:
+* [Ready Set Cut](https://www.readysetcut.ca/)
+* [SendCutSend](https://sendcutsend.com/)
