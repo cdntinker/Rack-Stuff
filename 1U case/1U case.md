@@ -18,4 +18,4 @@ Intended to be fabricated from cut & folded 16g steel, but the front panel could
 
 ## Possible links:
 * [Ready Set Cut](https://www.readysetcut.ca/)
-* [SendCutSend](https://sendcutsend.com/)
+* [Send Cut Send](https://sendcutsend.com/)
